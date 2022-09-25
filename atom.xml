@@ -105,9 +105,9 @@
     <category term="STM32" scheme="http://example.com/categories/STM32/"/>
     
     
-    <category term="单片机" scheme="http://example.com/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
-    
     <category term="时钟树" scheme="http://example.com/tags/%E6%97%B6%E9%92%9F%E6%A0%91/"/>
+    
+    <category term="单片机" scheme="http://example.com/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
     
   </entry>
   
@@ -128,9 +128,9 @@
     <category term="STM32" scheme="http://example.com/categories/STM32/"/>
     
     
-    <category term="电子信息工程" scheme="http://example.com/tags/%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B/"/>
-    
     <category term="单片机" scheme="http://example.com/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    <category term="电子信息工程" scheme="http://example.com/tags/%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
