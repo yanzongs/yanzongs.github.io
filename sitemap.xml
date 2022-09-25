@@ -212,6 +212,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/Mermaid/</loc>
+    <lastmod>2022-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B/</loc>
     <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -220,13 +227,6 @@
   
   <url>
     <loc>http://example.com/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
-    <lastmod>2022-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Mermaid/</loc>
     <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -291,14 +291,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/STM32/</loc>
+    <loc>http://example.com/categories/Mermaid/</loc>
     <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Mermaid/</loc>
+    <loc>http://example.com/categories/STM32/</loc>
     <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
