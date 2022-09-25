@@ -1,0 +1,17 @@
+@font-face{
+  font-family:'word' ;  /* 字体名自定义即可 */
+  src:url('/fonts/romance-movie-cheese.ttf'); /* 字体文件路径 */
+  font-display : swap;
+}
+
+@font-face{
+  font-family:'code' ;  /* 字体名自定义即可 */
+  src:url('/fonts/shoujin.ttf'); /* 字体文件路径 */
+  font-display : swap;
+}
+
+/*全局应用*/
+body {
+  font-family: 'word', sans-serif;
+}
+

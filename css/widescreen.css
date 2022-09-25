@@ -1,0 +1,16 @@
+/*整体宽度*/
+.layout{
+  max-width:1600px;
+}
+
+/*单独侧边卡片宽度*/
+.aside-content{
+    max-width:350px;
+}
+
+/*适应平板*/
+@media screen and (max-width: 900px){
+    .aside-content{
+        max-width:none!important;
+    }
+}
