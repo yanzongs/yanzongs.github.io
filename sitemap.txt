@@ -1,5 +1,8 @@
+http://example.com/undefined/LIFE-Collage/
 http://example.com/undefined/C51-DHT11/
 http://example.com/undefined/HEXO-NEwPage/
+http://example.com/undefined/STM32-Timer/
+http://example.com/undefined/STM32-DHT11/
 http://example.com/undefined/Mermaid-CodeWriting/
 http://example.com/undefined/LIFE-College/
 http://example.com/undefined/HEXO-FrontMatter/
